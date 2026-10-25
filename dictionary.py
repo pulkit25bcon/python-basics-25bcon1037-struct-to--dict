@@ -10,7 +10,7 @@ struct to dictionary
 """
 
 student = {
-    "Name": "Harsh",
+    "Name": "Pulkit",
     "Roll": 10,
     "Marks": 90.99
 }
